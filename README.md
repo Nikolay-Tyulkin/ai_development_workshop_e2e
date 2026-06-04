@@ -1,6 +1,6 @@
 # Агентная End2End-разработка с ИИ
 
-![Join us in the workshop](https://media1.tenor.com/m/JW-oa1oTUyQAAAAd/simpsons-homer.gif)
+![Join us in the workshop](assets/gifs/workshop-intro.gif)
 
 Это короткий практический воркшоп, где мы не просто болтаем с ИИ, а собираем с ним небольшой рабочий проект от идеи до Docker-запуска.
 

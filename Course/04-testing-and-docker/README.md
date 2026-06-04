@@ -1,6 +1,6 @@
 # Урок 4. Проверка, тестирование и Docker
 
-![Проверяем и ломаем аккуратно](https://media1.tenor.com/m/Xrxl8QZblowAAAAd/mindfield-destruction.gif)
+![Проверяем и ломаем аккуратно](../../assets/gifs/lesson-4-testing-docker.gif)
 
 ## Назначение урока
 

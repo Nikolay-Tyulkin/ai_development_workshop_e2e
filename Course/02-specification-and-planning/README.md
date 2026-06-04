@@ -1,6 +1,6 @@
 # Урок 2. Техническое задание и план реализации
 
-![Разбираемся с требованиями](https://media1.tenor.com/m/jBHd28HW1zwAAAAd/explain-confusion.gif)
+![Разбираемся с требованиями](../../assets/gifs/lesson-2-specification.gif)
 
 ## Назначение урока
 
