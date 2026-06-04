@@ -188,7 +188,7 @@ AI-интеграция:
 
 Тесты и запуск:
 
-- backend-тесты через pytest;
+- базовые backend-тесты через pytest на третьем уроке;
 - базовые frontend-автотесты через Vitest и Testing Library на третьем уроке;
 - frontend-проверки через npm scripts;
 - Playwright E2E и Docker добавляются на четвертом уроке курса.
