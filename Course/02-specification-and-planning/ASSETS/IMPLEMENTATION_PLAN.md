@@ -11,7 +11,6 @@
 ```text
 TaskerAI/
   AGENTS.md
-  TOOLS.md
   PROJECT_SPEC.md
   IMPLEMENTATION_PLAN.md
   ACCEPTANCE_CRITERIA.md

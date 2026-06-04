@@ -3,7 +3,6 @@
   "default_agent": "build",
   "instructions": [
     "AGENTS.md",
-    "TOOLS.md",
     "SKILLS.md"
   ],
   "permission": {

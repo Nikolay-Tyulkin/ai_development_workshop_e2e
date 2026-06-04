@@ -46,7 +46,7 @@ Playwright можно поставить позже, когда дойдем д�
 
 | Урок                                                 | Тема                     | Результат                                                             |
 |------------------------------------------------------|--------------------------|-----------------------------------------------------------------------|
-| [01](Course/01-agent-environment/README.md)          | Настройка агентной среды | `AGENTS.md`, `TOOLS.md`, `opencode.json`, агенты и skills             |
+| [01](Course/01-agent-environment/README.md)          | Настройка агентной среды | `AGENTS.md`, `opencode.json`, агенты и skills                         |
 | [02](Course/02-specification-and-planning/README.md) | Требования и план        | `PROJECT_SPEC.md`, `IMPLEMENTATION_PLAN.md`, `ACCEPTANCE_CRITERIA.md` |
 | [03](Course/03-application-development/README.md)    | Разработка MVP           | Рабочий frontend/backend и базовые тесты                              |
 | [04](Course/04-testing-and-docker/README.md)         | Тестирование и Docker    | Playwright, E2E-тесты, Docker Compose                                 |
