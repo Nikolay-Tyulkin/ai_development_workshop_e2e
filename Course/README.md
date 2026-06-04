@@ -1,6 +1,6 @@
 # Course
 
-Материалы курса "Агентная End2End-разработка приложения Менеджер задач с ИИ".
+Материалы курса "Агентная End2End-разработка приложения TaskerAI".
 
 ## Структура
 
@@ -10,7 +10,7 @@ Course/
   02-specification-and-planning/
   03-application-development/
   04-testing-and-docker/
-  05-maintenance-versioning-docs/
+  05-maintenance-versioning-docs/  # в разработке
 ```
 
 Каждый модуль содержит сам урок в `README.md`. Конкретные примеры выходных артефактов урока лежат в папке `ASSETS`.
@@ -21,7 +21,7 @@ Course/
 
 ## Второй модуль
 
-Второй модуль находится в папке `02-specification-and-planning` и посвящен подготовке технического задания, UI/UX-требований, плана реализации и критериев приемки: `PROJECT_SPEC.md`, `IMPLEMENTATION_PLAN.md` и `ACCEPTANCE_CRITERIA.md`.
+Второй модуль находится в папке `02-specification-and-planning` и посвящен подготовке технического задания, плана реализации и критериев приемки для `TaskerAI`: `PROJECT_SPEC.md`, `IMPLEMENTATION_PLAN.md` и `ACCEPTANCE_CRITERIA.md`.
 
 ## Третий модуль
 

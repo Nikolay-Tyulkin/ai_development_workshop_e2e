@@ -4,7 +4,7 @@ description: Используй перед завершением задачи, 
 license: MIT
 compatibility: opencode
 metadata:
-  project: task-manager-ai
+  project: TaskerAI
   purpose: verification
 ---
 

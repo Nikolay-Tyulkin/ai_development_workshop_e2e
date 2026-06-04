@@ -2,7 +2,7 @@
 
 ## 1. Назначение файла
 
-Этот файл содержит пример Docker-настройки для учебного приложения "Менеджер задач с ИИ". Используйте его как шаблон, а не как обязательный готовый код: фактические пути, команды и порты нужно сверить с реальным проектом.
+Этот файл содержит пример Docker-настройки для учебного приложения `TaskerAI`. Используйте его как шаблон, а не как обязательный готовый код: фактические пути, команды и порты нужно сверить с реальным проектом.
 
 Пример рассчитан на структуру:
 
@@ -125,9 +125,21 @@ DATABASE_URL=sqlite:///./app.db
 docker compose build
 ```
 
+Linux/macOS:
+
+```bash
+docker compose build
+```
+
 Запуск:
 
 ```powershell
+docker compose up
+```
+
+Linux/macOS:
+
+```bash
 docker compose up
 ```
 
@@ -137,9 +149,21 @@ docker compose up
 docker compose down
 ```
 
+Linux/macOS:
+
+```bash
+docker compose down
+```
+
 Остановка с удалением volume, если нужно очистить учебные данные:
 
 ```powershell
+docker compose down -v
+```
+
+Linux/macOS:
+
+```bash
 docker compose down -v
 ```
 

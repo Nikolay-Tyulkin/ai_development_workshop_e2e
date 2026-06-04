@@ -4,7 +4,7 @@ description: Используй при подготовке или уточне�
 license: MIT
 compatibility: opencode
 metadata:
-  project: task-manager-ai
+  project: TaskerAI
   purpose: requirements
 ---
 
